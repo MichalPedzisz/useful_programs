@@ -1,4 +1,4 @@
-# Markdown, Colab i GitHub
+# Markdown, Colab oraz GitHub
 
 Na poączątek poznamy trzy narzędzia, które rozwiązują trzy różne problemy:
 
