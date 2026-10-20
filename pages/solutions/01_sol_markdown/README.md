@@ -39,11 +39,11 @@ wynik = oblicz_kwadraty(5)
 print(f"Kolejne kwadraty liczb: {wynik}")
 ```
 
-$E=mc^2$
+Wzór Einstaina $E=mc^2$ który wymyślił razem z teorią względności
 
-$k=F \cdot \Delta x$
+Prawo hooka w postaci wzoru $k=F \cdot \Delta x$ nie znam do niego historii
 
-$V=s/t$
+Wzor na predkosc $V=s/t$ rowniez pochodna po polozeniu
 
 $$
 \sum_{i=1}^{n} i = \frac{n(n+1)}{2}
