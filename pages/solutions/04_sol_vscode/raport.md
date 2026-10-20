@@ -195,11 +195,18 @@ Jej tempo zmiany jest równe mocy siły oporu. Dla oporu liniowego i kwadratoweg
 
 $$
 \frac{dE_m}{dt}=\vec{F}_{\mathrm{op}}\cdot\vec{v}
-=
-\begin{cases}
--m\beta|\vec{v}|^2 & \text{(opór liniowy)},\\
--mk|\vec{v}|^3 & \text{(opór kwadratowy)}.
-\end{cases}
+$$
+
+Dla przyjętych modeli otrzymujemy:
+
+$$
+\frac{dE_m}{dt}=-m\beta|\vec{v}|^2
+\qquad \text{(opór liniowy)},
+$$
+
+$$
+\frac{dE_m}{dt}=-mk|\vec{v}|^3
+\qquad \text{(opór kwadratowy)}.
 $$
 
 W obu modelach po prawej stronie otrzymujemy wartość niedodatnią. Energia mechaniczna układu maleje, ponieważ część energii jest rozpraszana w powietrzu.
