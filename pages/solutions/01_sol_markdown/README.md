@@ -1,9 +1,9 @@
 # TYTUŁ
 
-Planowanie i priorytety
+##Planowanie i priorytety##
 Jasno określony cel pozwala wyeliminować chaos *decyzyjny na samym początku pracy.* Zamiast długiej listy drobnych spraw, najlepiej wybrać jedno lub dwa kluczowe zadania, których realizacja realnie przesunie projekt do przodu.
 
-Eliminacja rozpraszaczy
+##Eliminacja rozpraszaczy##
 ~~Utrzymanie głębokiego skupienia~~ zależy przede wszystkim od odpowiednio przygotowanego środowiska. **Wyciszenie powiadomień oraz praca w zwięzłych, nieprzerwanych blokach czasowych** pozwala osiągnąć znacznie lepsze rezultaty przy mniejszym zmęczeniu.
 
 Lista ulubionych imion
