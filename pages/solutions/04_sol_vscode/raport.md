@@ -197,16 +197,16 @@ $$
 \frac{dE_m}{dt}=\vec{F}_{\mathrm{op}}\cdot\vec{v}
 $$
 
-Dla przyjętych modeli otrzymujemy:
+Dla oporu liniowego otrzymujemy:
 
 $$
-\frac{dE_m}{dt}=-m\beta|\vec{v}|^2
-\qquad \text{(opór liniowy)},
+\frac{dE_m}{dt}=-m\beta|\vec{v}|^2,
 $$
 
+natomiast dla oporu kwadratowego:
+
 $$
-\frac{dE_m}{dt}=-mk|\vec{v}|^3
-\qquad \text{(opór kwadratowy)}.
+\frac{dE_m}{dt}=-mk|\vec{v}|^3.
 $$
 
 W obu modelach po prawej stronie otrzymujemy wartość niedodatnią. Energia mechaniczna układu maleje, ponieważ część energii jest rozpraszana w powietrzu.
